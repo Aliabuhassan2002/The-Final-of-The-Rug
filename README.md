@@ -4,6 +4,8 @@
 
 - [Figma](https://www.figma.com/design/fHpZTqpXYYPHUzZUl6Fj1m/The-Rug.jo?node-id=0-1&p=f&t=Gu8bqEMXCUFKVVWe-0)
 - [Trello Board](https://trello.com/b/SRSzFpCT/the-rugjomasterpiece)
+- [Project Brief](https://drive.google.com/file/d/1opu2Gt19KSgYTh8ktuwug-rlK8sCtsAZ/view?usp=drive_link)
+- [Documentation](https://drive.google.com/file/d/1VnOCetv0YzJ5Vo-mjYKv2DNphnut-7NC/view?usp=drive_link)
 
 
 ## 📋 Overview
