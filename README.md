@@ -2,9 +2,9 @@
 
 > A modern e-commerce platform connecting rug enthusiasts with quality providers
 
-![The Rug](https://img.shields.io/badge/Status-In%20Development-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+- [Figma](https://www.figma.com/design/fHpZTqpXYYPHUzZUl6Fj1m/The-Rug.jo?node-id=0-1&p=f&t=Gu8bqEMXCUFKVVWe-0)
+- [Trello Board](https://trello.com/b/SRSzFpCT/the-rugjomasterpiece)
+
 
 ## 📋 Overview
 
