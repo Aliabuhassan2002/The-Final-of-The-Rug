@@ -6,6 +6,7 @@
 - [Trello Board](https://trello.com/b/SRSzFpCT/the-rugjomasterpiece)
 - [Project Brief](https://drive.google.com/file/d/1opu2Gt19KSgYTh8ktuwug-rlK8sCtsAZ/view?usp=drive_link)
 - [Documentation](https://drive.google.com/file/d/1VnOCetv0YzJ5Vo-mjYKv2DNphnut-7NC/view?usp=drive_link)
+- [Presentation](https://www.canva.com/design/DAGlKe5GDbY/qMqiLj_fVqH_EtoId-Vx_Q/edit?utm_content=DAGlKe5GDbY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## 📋 Overview
